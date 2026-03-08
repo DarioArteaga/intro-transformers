@@ -1,4 +1,4 @@
-# InTroducción a los Transformers con PyTorch
+# Introducción a los Transformers con PyTorch
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
